@@ -5,7 +5,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xpandeyed&theme=holi-theme)](https://git.io/streak-stats)
 
-[![Lal Bihari Pandey's github activity graph](https://activity-graph.herokuapp.com/graph?username=xpandeyed&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
