@@ -14,5 +14,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpandeyed&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
+<details>
+  <summary><b> LeetCode Stats</summary>
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+    <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=xpandeyed&theme=dark" width="400"/>
+  </a>
+</details>
+
 ## PROFILE VIEWS 
 ![VisitorCount](https://profile-counter.glitch.me/xpandeyed/count.svg)
