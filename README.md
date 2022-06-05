@@ -9,7 +9,6 @@
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   </br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xpandeyed&theme=holi-theme"/><br>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xpandeyed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xpandeyed&layout=compact&langs_count=8&theme=algolia"/>
 </details>
