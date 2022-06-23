@@ -4,6 +4,8 @@
          width="45" />, I'm Lal Bihari Pandey</h1>
 <h3 align="center">Native Android Developer</h3>
 
+- Intern at [Mugs](https://github.com/MugsApp)
+
 <p align="center">
 <a href="https://github.com/xpandeyed">
 <img align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xpandeyed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
@@ -14,9 +16,8 @@
 <h3 align="center">LeetCode Stats</h3>
 <p align="center">
 <a href="https://leetcode.com/xpandeyed/">
-<img height="200px" width="430" align="center" alt= "stats card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=xpandeyed&theme=dark">
+<img height="200px" width="435" align="center" alt= "stats card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=xpandeyed&theme=dark">
 </p>
-
 
 
 ## PROFILE VIEWS 
