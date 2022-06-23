@@ -1,24 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Lal Bihari Pandey</h1>
+<h3 align="center">Native Android Developer</h3>
 
-- 🌱 I’m currently learning Data Structures & Algorithms.
-- 👯 I’m looking to collaborate on Android Development in Kotlin.
+<p align="center">
+<a href="https://github.com/xpandeyed">
+<img align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xpandeyed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+</p>
+<p align="center">
+<img height="200px" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xpandeyed&layout=compact&langs_count=8&theme=algolia" />
+</p>
+<h3 align="center">LeetCode Stats</h3>
+<p align="center">
+<a href="https://leetcode.com/xpandeyed/">
+<img height="200px" width="430" align="center" alt= "stats card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=xpandeyed&theme=dark">
+</p>
 
 
-
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-  </br>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xpandeyed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xpandeyed&layout=compact&langs_count=8&theme=algolia"/>
-</details>
-
-<details>
-  <summary><b> LeetCode Stats</summary>
-  <a href="https://github.com/KnlnKS/leetcode-stats">
-    <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=xpandeyed&theme=dark" width="400"/>
-  </a>
-</details>
 
 ## PROFILE VIEWS 
 ![VisitorCount](https://profile-counter.glitch.me/xpandeyed/count.svg)
