@@ -5,6 +5,7 @@
 <h3 align="center">Native Android Developer | DSA Enthusiast</h3>
 
 - Android Delveloment Intern at [Mugs](https://github.com/MugsApp)
+- My updated [Resume](https://github.com/xpandeyed/Portfolio/blob/master/Resume_LalBihariPandey.pdf)
 - Practicing Data Structures and Algorithms at [LeetCode](https://leetcode.com/xpandeyed/)
 - Shoot a mail on lalbiharipandeyg@gmail.com
 <hr>
