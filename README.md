@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Lal Bihari Pandey</h1>
-<h3 align="center">Native Android Developer | DSA Enthusiast</h3>
+<h3 align="center">Android Developer | DSA Enthusiast</h3>
 
 - Android Delveloment Intern at [Mugs](https://github.com/MugsApp)
 - My updated [Resume](https://github.com/xpandeyed/Portfolio/blob/master/Resume_LalBihariPandey.pdf)
