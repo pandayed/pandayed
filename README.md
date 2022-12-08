@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Lal Bihari Pandey</h1>
-<h3 align="center">Android Developer | DSA Enthusiast</h3>
+<h3 align="center">Koltin | Fullter | Android</h3>
 
 - My updated [Resume](https://github.com/xpandeyed/Portfolio/blob/master/Resume_LalBihariPandey.pdf)
 - Practicing Data Structures and Algorithms at [LeetCode](https://leetcode.com/xpandeyed/)
