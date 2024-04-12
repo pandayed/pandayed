@@ -18,6 +18,7 @@
   - XML
   - Jetpack Compose
   - MVVM
+  - Coroutines
 - Other technologies I know/have worked with:
   - Python
   - C++
