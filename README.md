@@ -17,9 +17,11 @@
   - Java
   - XML
   - Jetpack Compose
-  - MVVM
+  - MVC, MVP, and MVVM
   - Coroutines
 - Other technologies I know/have worked with:
   - Python
+    - Numpy
+    - Pandas
   - C++
-  - Flutter
+  - Dart and Flutter
