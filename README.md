@@ -8,5 +8,4 @@
 - My updated [Resume](https://docs.google.com/document/d/1bDCyITLmrrbFMAPZ51MRAw-5M_O0TGIW3HOSzICOyhY/edit?usp=sharing)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/pandayed/)
 - Shoot a mail on lalbiharipandeyg@gmail.com
-- Practicing Data Structures and Algorithms at [LeetCode](https://leetcode.com/pandayed/)
 <hr>
