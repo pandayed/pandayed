@@ -10,18 +10,3 @@
 - Shoot a mail on lalbiharipandeyg@gmail.com
 - Practicing Data Structures and Algorithms at [LeetCode](https://leetcode.com/pandayed/)
 <hr>
-
-### Skills
-- Android
-  - Kotlin
-  - Java
-  - XML
-  - Jetpack Compose
-  - MVC, MVP, and MVVM
-  - Coroutines
-- Other technologies I know/have worked with:
-  - Python
-    - Numpy
-    - Pandas
-  - C++
-  - Dart and Flutter
