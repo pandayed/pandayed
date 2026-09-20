@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineer | Android And Full Stack Developer</h3>
 <hr>
 
-- [Portfolio](https://www.lalpandey.com)
+- [Portfolio](https://lalpandey.com)
 - My updated [Resume](https://docs.google.com/document/d/1bDCyITLmrrbFMAPZ51MRAw-5M_O0TGIW3HOSzICOyhY/edit?usp=sharing)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/pandayed/)
 - Shoot a mail on lalbiharipandeyg@gmail.com
